@@ -11,3 +11,4 @@ git status                    //to check the status
 
 git commit -m "any message" gitCommands.txt        //to commit our file
 git push -u origin master                          //to push our file into git account
+git log           //for commit history
