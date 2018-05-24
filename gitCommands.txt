@@ -1,0 +1,6 @@
+cd                           //for home dir
+cd /c                        //for C: dir
+cd Desktop/                  //for desktop dir
+git config --global user.name "type your username"  //for git account
+git config --global user.email typr your email      //for git account
+git clone paste the link here             //for clone,copy from your git website
