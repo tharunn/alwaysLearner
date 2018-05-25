@@ -8,7 +8,12 @@ git clone paste the link here             //for clone,copy from your git website
 
 git add gitCommands.txt       //to add file to git
 git status                    //to check the status
-
 git commit -m "any message" gitCommands.txt        //to commit our file
 git push -u origin master                          //to push our file into git account
+
 git log           //for commit history
+
+git rm -r filename  //to remove file from git
+git commit -m "message"
+git push -u origin master
+
