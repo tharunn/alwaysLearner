@@ -14,6 +14,6 @@ git push -u origin master                          //to push our file into git a
 git log           //for commit history
 
 git rm -r filename  //to remove file from git
-git commit -m "message"
+git commit -m "message" gitCommands.txt
 git push -u origin master
 
